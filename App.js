@@ -17,13 +17,13 @@ import NoticeScreen from './screens/NoticeScreen';
 import LeaveScreen from './screens/LeaveScreen';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyA6jSq3axCr2nC_SPlhLjAZO1Uh3SoIlDQ",
-  authDomain: "cutiku-65322.firebaseapp.com",
-  databaseURL: "https://cutiku-65322.firebaseio.com",
-  projectId: "cutiku-65322",
-  storageBucket: "cutiku-65322.appspot.com",
-  messagingSenderId: "1046353977238",
-  appId: "1:1046353977238:web:3f5267cf61aee3123107b7"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
